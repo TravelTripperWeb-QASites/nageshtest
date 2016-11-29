@@ -2,4 +2,7 @@
   "name": {
     "required": true
   }
+  "Image name": {
+    "type": "image"
+  }
 }
