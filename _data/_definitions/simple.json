@@ -9,7 +9,7 @@
 "blockquote":
 	{"hint":"Paste big blockquote on page"},
 "image":
-	{"type":"image"},
+	{"type":"image","required":true},
 "vr_btn_link":
 	{},
 "vrtitle":
