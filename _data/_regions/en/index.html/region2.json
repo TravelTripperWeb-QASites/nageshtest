@@ -1,1 +1,14 @@
-[{"_template":"href","url":"qwe","name":"werty"},{}]
+[
+	{
+		"_template": "href",
+		"url": "qwe",
+		"name": "werty"
+	},
+	{
+	},
+	{
+		"_template": "html",
+		"rendered_height": 500,
+		"content": "<p>mmmm</p>"
+	}
+]
