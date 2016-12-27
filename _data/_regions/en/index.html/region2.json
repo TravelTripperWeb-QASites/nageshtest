@@ -9,5 +9,10 @@
 		"_template": "html",
 		"rendered_height": 500,
 		"content": "<p>this is nagesh hey</p>"
+	},
+	{
+		"_template": "html",
+		"rendered_height": 500,
+		"content": "<p><a title=\"JIRA TICKET\" href=\"https://traveltripper.jira.com/browse/WEB-69\">WEB-69</a></p>"
 	}
 ]
