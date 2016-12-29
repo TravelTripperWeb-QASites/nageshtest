@@ -11,7 +11,7 @@
 "image":
 	{"type":"image","required":true},
  "second_image":
-	{"type":"image","required":true},
+	{"type":"image"},
  "another_image":
 	{"type":"image","required":true},
 "vr_btn_link":
