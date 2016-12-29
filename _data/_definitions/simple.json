@@ -10,6 +10,10 @@
 	{"hint":"Paste big blockquote on page"},
 "image":
 	{"type":"image","required":true},
+ "second_image":
+	{"type":"image","required":true},
+ "another_image":
+	{"type":"image","required":true},
 "vr_btn_link":
 	{},
 "vrtitle":
