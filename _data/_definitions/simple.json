@@ -1,5 +1,25 @@
-{
-  "name": {
-    "required": true
-  }
-}
+{"title":
+	{"required":true},
+"seo_title":
+	{"required":true},
+"seo_description":
+	{"type":"text","required":true},
+"url_friendly_name":
+	{"type":"url_slug"},
+"blockquote":
+	{"hint":"Paste big blockquote on page"},
+"image":
+	{"type":"image","required":true},
+ "second_image":
+	{"type":"image"},
+ "another_image":
+	{"type":"image","required":true},
+"vr_btn_link":
+	{},
+"vrtitle":
+	{},
+"contents":
+	{"type":"richtext","required":true,"hint":"Write the content of your amenity."},
+"menu_order": {
+  "type": "integer"
+}}
